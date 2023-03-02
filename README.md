@@ -1,58 +1,39 @@
-## 2022
+Download "CV - Lautaro Capella.pdf" from [here🔽](https://github.com/cape-/cv/raw/main/Resume%20-%20Lautaro%20Capella%20-%20OCT2022.pdf).
 
-# RESUME
+----
+# RESUME - Lautaro Capella
+### Full stack Senior Developer & Software Engineer.
 
-## Lautaro Capella
+#### 📧 [laucape@gmail.com](mailto:laucape@gmail.com) | 📱 [+549 3547 468187](tel:+5493547468187) | 🤓 [github.com](https://github.com/cape-) | ❓ [stackoverflow.com](https://stackoverflow.com/users/1575157/cape-bsas)
 
-### Full stack Senior Developer.
+----
+Skilled developer with strong analytic profile. Started coding at 13 years old and professionally, as ABAP developer, 15 years ago. Through the years took part in several high end projects. Since last 5 years turned into Front-end developer (primary over SAP ecosystem), Technical lead,Functional specialist, Back-end developer (SAP ERP,HANA XS and Node.js) and Cloud Architect (SAP CPI, SAP BTP, SAP Gateway).
 
-### Software Architect.
+Proactive researcher and problem solver, really enjoys challenging scenarios and new technologies, taking part in the entire process from discovery to delivery. Solid Git and management tools understanding. Self organized handles efficiently mutliple tasks with different priorities for himself, and his co-workers when in a lead role.
 
-#### laucape@gmail.com
+C2 Proficient English level (CEFR standarized test), active listener and strong commitment to teamwork, methodologies, project road map and milestones.Also active stackoverflow member, dedicated family man and proud private pilot.
 
-#### + 549 3547 468187
+---
+### 🧰 SKILLS 
 
-Skilled developer withstronganalytic profile.Started codingat 13 yearsoldand
-professionally,asanABAPdeveloper, 15 yearsago.Throughtheyearstookpartinseveral
-highendprojects.Sincelast 5 yearsturnedintoFront-enddeveloper(primaryoverSAP
-ecosystem),Technicallead,Functionalspecialist,Back-enddeveloper(SAPERP,HANA
-XS and Node.js) and Cloud Architect (SAP CPI, SAP BTP, SAP Gateway).
+- BACKEND
+  - SAP ERP, ABAP, HANA XS, XSODATA, XSJS, CDS, SAP GW,NODE.JS, EXPRESS
 
-Proactiveresearcherand problemsolver, reallyenjoyschallengingscenariosand
-newtechnologies,takingpartintheentireprocessfromdiscoverytodelivery.SolidGit
-andmanagementtoolsunderstanding.Selforganized,handlesefficientlymutlipletasks
-with different priorities for himself, and his co-workers when in a lead role.
+- FRONTEND
+  - SAP UI 5 , ANGULARJS, HTML 5 , CSS, VANILLA JS, CORDOVA (FW)
 
-C 2 Proficient English level (CEFR standarized test), active listener and strong
-commitmenttoteamwork,methodologies,projectroadmapandmilestones.Alsoactive
-stackoverflow member, dedicated family man and proud private pilot.
+- CLOUD
+  - SAP BTP, SAP CPI/CI, ODATA, REST, WSDL, SOAP, WEBSOCKETS
 
-#### SKILLS
+- OTHER
+  - GIT, NPM, DEVOPS, JIRA
 
-##### BACKEND
+---
+### 🧑‍🎓 EDUCATION
 
-##### SAP ERP, ABAP, HANA XS, XSODATA, XSJS, CDS, SAP GW,NODE.JS, EXPRESS
-
-##### FRONTEND
-
-##### SAP UI 5 , ANGULARJS, HTML 5 , CSS, VANILLA JS, CORDOVA (FW)
-
-##### CLOUD
-
-##### SAP BTP, SAP CPI/CI, ODATA, REST, WSDL, SOAP, WEBSOCKETS
-
-##### OTHER
-
-##### GIT, NPM, DEVOPS, JIRA
-
-
-## 2022
-
-##### EDUCATION
-
-##### 2000 • 2005
 
 ```
+2000 • 2005
 Bachelor degree (in university high school). Colegio Nacional de Buenos Aires,
 UBA.
 ```
@@ -60,190 +41,116 @@ UBA.
 2007 • 2008
 Electronic Engineer. Facultad de Ingeniería, UBA.
 ```
-##### WORK EXPERIENCE
+---
+### 💻 WORK EXPERIENCE
+```
+[⏳ Ongoing] 2022 | ENAP (Chile) | HR Dashboard feeder app
 
-```
-2022 | ENAP | HR Dashboard feeder app
-Ongoing
+Full-stack developer (stack: HANA XS-BTP-Fiori).Solution design. Data model design. Hana artifacts development. Hana XS services development (XSJS and XSODATA). SAP UI 5 application design and development. BTP management, deploy and delivery.
 ```
 ```
-Full-stack developer (stack: HANA XS-BTP-Fiori).Solutiondesign. Data model
-design. Hana artifacts development. Hana XS services development (XSJS and
-XSODATA). SAP UI 5 application design and development. BTP management,
-deploy and delivery.
-```
-```
-2022 | MALL PLAZA | Cloud Digital Signature (AdobeSignAPI integration)
-Delivered
-```
-```
-Architect, CPI developer.Design and implementationfor 18 API methods.
-Technical specifications and final documentation. Cutover plan.
-```
-```
-2022 | ENAP | Payment Button (Banking API integration)
-Delivered
-```
-```
-Architect, Frontend developer, CPI developer.Activerole in discovery phase in
-collaboration with customer and functional specialist. OData services design;
-integration middleware (CPI) design and development; front-end application (UI 5 )
-design and development. Technical specifications and documentation.
-```
-```
-2021 • 2022 | TENARIS | Sales Management Portal
-Ongoing
-```
-```
-Frontend developer.Large project, Agile SCRUM, hands-onproduct design,
-collaboration together with product owner (USA), and other team members.
-Delivery milestones, huge application, concurrent developent, GIT management.
-```
-```
-2022 | COFCO | Delivery Geo-Tracking App (Mobile GPSreal-time Tracker)
-Delivered
-```
-```
-Technical leader and full-stack developer (HANA XS-SAP UI 5 over Cordova).
-Backend and frontend design. HANA XSJS database design and definition,
-services develop. Technical specifications. Cordova plugin selection, testing and
-licensing. Deploy and testing.
-```
+[✔️ Delivered] 2022 | MALL PLAZA (Chile) | Cloud Digital Signature (AdobeSignAPI integration)
 
-## 2022
-
-2021 • 2022 **| ENAP | Digital Work Permit
-Delivered**
-
+Architect, CPI developer. Design and implementation for 18 API methods. Technical specifications and final documentation. Cutover plan design.
 ```
-Architect, Full-stack developer.Review of businessprocesses in collaboration with
-customer and functional specialists. HANA XS: XSODATA services design and
-develop; Events; XSJS Services; front-end application (UI 5 ) design and develop.
-Roles design. Documentation.
 ```
-2021 **| TRANSENER | HTML5 Apps support
-Maintenance**
+[✔️ Delivered] 2022 | ENAP (Chile) | Payment Button (Banking API integration)
 
+Architect, Frontend developer, CPI developer. Active role in discovery phase in collaboration with customer and functional specialist. OData services design; integration middleware (CPI) design and development; front-end application (SAP UI5) design and development. Technical specifications and documentation.
 ```
+```
+[⏳ Ongoing] 2021 | TENARIS (global) | Sales Management Portal
+
+Frontend developer. Large project, Agile SCRUM, hands-on product design, collaboration together with product owner (USA), and other team members. Delivery milestones, huge application, concurrent developent, GIT management.
+```
+```
+[✔️ Delivered] 2022 | COFCO Argentina | Delivery Geo-Tracking App (Mobile GPS real-time Tracker)
+
+Technical lead and full-stack developer (HANA XS - SAP UI5 over Cordova). Backend and frontend design. HANA XSJS database design and definition, services develop. Technical specifications. Cordova plugin selection, testing and licensing. Deploy and testing.
+```
+```
+[✔️ Delivered] 2021 • 2022 | ENAP | Digital Work Permit
+
+Architect, Full-stack developer. Review of business processes in collaboration with customer and functional specialists. HANA XS: XSODATA services design and development; Events; XSJS Services; front-end application (SAP UI5) design and develop. Roles design. Documentation.
+```
+```
+[💅 Maintenance] 2021 | TRANSENER | HTML5 Apps support
+
 Full-stack developer.Support on existing app ecosystem.
 ```
-2021 **| WAVIN | Vendors portal
-Delivered**
+```
+[✔️ Delivered] 2021 | WAVIN | Vendors portal
 
+Architect, Full-stack developer. HANA XS: OData (XSODATA) services design and development; Events; XSJS Services; front-end development.
 ```
-Architect, Full-stack developer.HANA XS: OData (XSODATA)services design and
-develop; Events; XSJS Services; front-end develop.
 ```
-2021 **| MALL PLAZA | Vendors Portal
-Delivered**
+[✔️ Delivered] 2021 | MALL PLAZA | Vendors Portal
 
+Architect, Frontend developer. Frontend application design and develop. Dynamic forms. Roles design.
 ```
-Architect, Frontend developer.Front-end applicationdesign and develop.
-Dynamic forms. Roles design.
 ```
-2020 • 2021 **| MARFRIG | Truck entry control system
-Delivered**
+[✔️ Delivered] 2020 • 2021 | MARFRIG | Truck entry control system
 
+ABAP developer. Review of business needs. Solution desing. Development. Incremental iterations. Testing. Role design. Rollout plan design.
 ```
-ABAP developer.Review of business needs. Solutiondesing. Development.
-Incremental iterations. Testing. Role design. Rollout plan.
 ```
-2019 • 2021 **| PIRELLI TYRES
-Maintenance**
+[💅 Maintenance] 2019 • 2021 | PIRELLI TYRES
 
+SAP ABAP Senior Consultant On-Site. Latam Support Leader (Chile, México & Colombia). FI, SD, MM analyst-developer.
 ```
-SAP ABAP Senior Consultant On-Site. Latam Support Leader (Chile, México &
-Colombia).FI, SD, MM analyst-developer.
 ```
-2019 • 2021 **| NATIVA CONSULTING (SAP Partner)
-Maintenance**
+[💅 Maintenance] 2019 • 2021 | NATIVA CONSULTING (SAP Partner)
 
-```
 SAP ABAP Senior Consultant.
 ```
-2018 • 2019 **| KPS SOLUCIONES (SAP Partner)**
+```
+[💅 Maintenance] 2018 • 2019 | KPS SOLUCIONES (SAP Partner)
 
+SAP ABAP Senior Consultant (freelancer) with Web integration (WS). WEB Resources Freelance Developer. Sites and applications from customer request integrating HTML 5, CSS, Ajax, jQuery over PHP and MySQL frameworks.
 ```
-SAP ABAP Senior Consultant (freelancer) with Web integration (WS).
-WEB Resources Freelance Developer.Sites and applicationsfrom customer
-request integrating HTML 5 , CSS, Ajax, jQuery over PHP and MySQL frameworks.
 ```
-2012 • 2014 **| VESUVIO S.A.C.I.F.eI.
-(Lacoste, Penguin, Cacharel, Paula Cahen D’Anvers brands)**
+[💅 Maintenance] 2012 • 2014 | VESUVIO S.A.C.I.F.eI. (Lacoste, Penguin, Cacharel and other brands)
 
+ABAP Senior Developer. SAP ECC 6.0. Maintenance FI/SD/MM/PP, Legacy System integration, Metadata Cubes, PHP Mobile Applications integrated with custom SAP Web Services for PO authorization and approval. Sales Order monitor. Forms design.
 ```
-ABAP Senior Developer. SAP ECC 6. 0 .Maintenance FI/SD/MM/PP,Legacy System
-integration, Metadata Cubes, PHP Mobile Applications integrated with custom
 ```
+[💅 Maintenance] 2011 | VOLKSWAGEN ARGENTINA
 
-## 2022
+ABAP Senior Analyst Developer for ET 2000 project SAP ECC 6.0 upgrade. Trough IBM Argentina.
+```
+```
+[💅 Maintenance] 2010 • 2011 | IBM ARGENTINA
 
-```
-SAP Web Services for PO authorization and approval. Sales Order monitor. Forms
-design.
+ABAP Semi-Senior Developer at client pool. General maintenance. Design and review of forms and prnter programs. Reports. CRM. Enhancements. BAdIs. User-Exit. OOP.
 ```
 ```
-2011 | VOLKSWAGEN ARGENTINA
+[✔️ Delivered] 2010 | LABORATORIO ELEA S.A.C.I.F.y A.
+
+ABAP Semi-Senior Developer for SAP ECC 6. 0 implementation. Through IBM Argentina. General Reports. Invoice and Label Forms. Testing.```
 ```
 ```
-ABAP Senior Analyst Developer for ET 2000 project.SAP ECC 6. 0 upgrade. Trough
-IBM Argentina.
+[💅 Maintenance] 2010 | RENAULT S.A.
+
+ABAP Semi-Senior Analyst Developer. Through CDA Informática S.R.L. General maintenance and docmentation. SD/MM/HR/FI Modules.
 ```
 ```
-2010 • 2011 | IBM ARGENTINA
+[✔️ Delivered] 2009 | CAUÊ - CAMARGO CORRÊA CIMENTOS (Sao Paulo,SP, Brasil)
+
+ABAP Developer. In charge of developing custom submodule for high frequency equipment maitenance (PM module). Through Loma Negra C.I.A.S.A.
 ```
 ```
-ABAP Semi-Senior Developer at client pool.Generalmaintenance. Design and
-review of forms and printer programs. Reports. CRM. Enhancements. BADI.
-User-Exit. OOP.
+[✔️ Delivered] 2008 • 2010 | LOMA NEGRA C.I.A.S.A.
+
+ABAP Developer. General maintenance, upgrades andanalysis for HR/SD/MM modules. In charge of PM modle develops. Through TGV S.R.L.
 ```
 ```
-2010 | LABORATORIO ELEA S.A.C.I.F.YA.
-```
-```
-ABAP Semi-Senior Developer for SAP ECC 6. 0 implementation.Through IBM
-Argentina. General Reports. Invoice and Label Forms. Testing.
-```
-```
-2010 | RENAULT S.A.
-```
-```
-ABAP Semi-Senior Analyst Developer.Through CDA InformáticaS.R.L. General
-maintenance and documentation. SD/MM/HR/FI Modules.
-```
-```
-2009 | CAUÊ - CAMARGO CORRÊA CIMENTOS (Sao Paulo,SP, Brasil)
-```
-```
-ABAP Developer.In charge of developing custom submodulefor high frequency
-equipment maintenance (PM module). Through Loma Negra C.I.A.S.A.
-```
-```
-2008 • 2010 | LOMA NEGRA C.I.A.S.A.
-```
-```
-ABAP Developer.General maintenance, upgrades andanalysis for HR/SD/MM
-modules. In charge of PM module develops. Through TGV S.R.L.
-```
-```
-2008 | COCA-COLA F.E.M.S.A MEXICO
-```
-```
+[💅 Maintenance] 2008 | COCA-COLA F.E.M.S.A MEXICO
+
 ABAP Developer.General Maintenance. FI/CO Modules.Through TGV S.R.L.
 ```
-##### LANGUAGES
-
-##### SPANISH
-
-```
-Native
-```
-```
-ENGLISH
-C 2 Proficient (EF SET certificate:https://www.efset.org/cert/d 9 dmMU)
-```
-```
-FRENCH, ITALIAN
-Basic
-```
-
+---
+### 🔣 LANGUAGES
+- SPANISH: Native
+- ENGLISH: C2 Proficient ([EF SET certificate](https://www.efset.org/cert/d9dmMU))
+- ITALIAN: Basic
+- FENCH: Basic
