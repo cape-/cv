@@ -7,7 +7,7 @@ Download "CV - Lautaro Capella.pdf" from [here🔽](https://github.com/cape-/cv/
 #### 📧 [laucape@gmail.com](mailto:laucape@gmail.com) | 📱 [+549 3547 468187](tel:+5493547468187) | 🤓 [github.com](https://github.com/cape-) | ❓ [stackoverflow.com](https://stackoverflow.com/users/1575157/cape-bsas)
 
 
-> Skilled developer with strong analytic profile. Started coding at 13 years old and professionally, as ABAP developer, 15 years ago. Through the years took part in several high end projects. Since last 5 years turned into Front-end developer (primary over SAP ecosystem), Technical lead,Functional specialist, Back-end developer (SAP ERP,HANA XS and Node.js) and Cloud Architect (SAP CPI, SAP BTP, SAP Gateway).
+> Skilled developer with strong analytic profile. Started coding at 13 years old and professionally, as ABAP developer, 15 years ago. Through the years took part in several high end projects. Since last 5 years turned into frontend developer (primary over SAP ecosystem), Technical lead,Functional specialist, backend developer (SAP ERP,HANA XS and Node.js) and Cloud Architect (SAP CPI, SAP BTP, SAP Gateway).
 >
 > Proactive researcher and problem solver, really enjoys challenging scenarios and new technologies, taking part in the entire process from discovery to delivery. Solid Git and management tools understanding. Self organized handles efficiently mutliple tasks with different priorities for himself, and his co-workers when in a lead role.
 >
@@ -60,7 +60,7 @@ Technical specifications and final documentation. Cutover plan design.
 
 Architect, Frontend developer, CPI developer. Active role in discovery phase in
 collaboration with customer and functional specialist. OData services design;
-integration middleware (CPI) design and development; front-end application (SAP UI5)
+integration middleware (CPI) design and development; frontend application (SAP UI5)
 design and development. Technical specifications and documentation.
 ```
 ```
@@ -83,7 +83,7 @@ Deploy and testing.
 
 Architect, Full-stack developer. Review of business processes in collaboration with
 customer and functional specialists. HANA XS: XSODATA services design and development;
-Events; XSJS Services; front-end application (SAP UI5) design and development. 
+Events; XSJS Services; frontend application (SAP UI5) design and development. 
 Roles design. Documentation.
 ```
 ```
@@ -95,7 +95,7 @@ Full-stack developer.Support on existing app ecosystem.
 [✔️ Delivered] 2021 | WAVIN | Vendors portal
 
 Architect, Full-stack developer. HANA XS: OData (XSODATA) services design and 
-development; Events; XSJS Services; front-end development.
+development; Events; XSJS Services; frontend development.
 ```
 ```
 [✔️ Delivered] 2021 | MALL PLAZA | Vendors Portal
