@@ -6,27 +6,27 @@ Download "CV - Lautaro Capella.pdf" from [here🔽](https://github.com/cape-/cv/
 
 #### 📧 [laucape@gmail.com](mailto:laucape@gmail.com) | 📱 [+549 3547 468187](tel:+5493547468187) | 🤓 [github.com](https://github.com/cape-) | ❓ [stackoverflow.com](https://stackoverflow.com/users/1575157/cape-bsas)
 
-----
-Skilled developer with strong analytic profile. Started coding at 13 years old and professionally, as ABAP developer, 15 years ago. Through the years took part in several high end projects. Since last 5 years turned into Front-end developer (primary over SAP ecosystem), Technical lead,Functional specialist, Back-end developer (SAP ERP,HANA XS and Node.js) and Cloud Architect (SAP CPI, SAP BTP, SAP Gateway).
 
-Proactive researcher and problem solver, really enjoys challenging scenarios and new technologies, taking part in the entire process from discovery to delivery. Solid Git and management tools understanding. Self organized handles efficiently mutliple tasks with different priorities for himself, and his co-workers when in a lead role.
-
-C2 Proficient English level (CEFR standarized test), active listener and strong commitment to teamwork, methodologies, project road map and milestones.Also active stackoverflow member, dedicated family man and proud private pilot.
+> Skilled developer with strong analytic profile. Started coding at 13 years old and professionally, as ABAP developer, 15 years ago. Through the years took part in several high end projects. Since last 5 years turned into Front-end developer (primary over SAP ecosystem), Technical lead,Functional specialist, Back-end developer (SAP ERP,HANA XS and Node.js) and Cloud Architect (SAP CPI, SAP BTP, SAP Gateway).
+>
+> Proactive researcher and problem solver, really enjoys challenging scenarios and new technologies, taking part in the entire process from discovery to delivery. Solid Git and management tools understanding. Self organized handles efficiently mutliple tasks with different priorities for himself, and his co-workers when in a lead role.
+>
+> C2 Proficient English level (CEFR standarized test), active listener and strong commitment to teamwork, methodologies, project road map and milestones.Also active stackoverflow member, dedicated family man and proud private pilot.
 
 ---
 ### **🧰 SKILLS**
 
-- BACKEND
-  - SAP ERP, ABAP, HANA XS, XSODATA, XSJS, CDS, SAP GW,NODE.JS, EXPRESS
-
-- FRONTEND
-  - SAP UI 5 , ANGULARJS, HTML 5 , CSS, VANILLA JS, CORDOVA (FW)
-
-- CLOUD
-  - SAP BTP, SAP CPI/CI, ODATA, REST, WSDL, SOAP, WEBSOCKETS
-
-- OTHER
-  - GIT, NPM, DEVOPS, JIRA
+|**BACKEND**     |**FRONTEND**   |**CLOUD**     |**OTHER**
+| ---            | ---           | ---          | ---
+|✅ SAP ERP     |✅ SAP UI5     |✅ SAP BTP    |✅ GIT 
+|✅ ABAP        |✅ ANGULARJS   |✅ SAP CPI/CI |✅ NPM 
+|✅ HANA XS     |✅ HTML 5      |✅ ODATA      |✅ DEVOPS
+|✅ XSODATA     |✅ CSS         |✅ HTTP REST  |✅ JIRA 
+|✅ XSJS        |✅ VANILLA JS  |✅ WSDL       | 
+|✅ CDS         |✅ CORDOVA     |✅ SOAP       | 
+|✅ SAP GATEWAY |                |✅ WEBSOCKETS | 
+|✅ NODE.JS     |                |               | 
+|✅ EXPRESS     |                |               | 
 
 ---
 ### **🎓 EDUCATION**
@@ -34,8 +34,7 @@ C2 Proficient English level (CEFR standarized test), active listener and strong 
 
 ```
 2000 • 2005
-Bachelor degree (in university high school). Colegio Nacional de Buenos Aires,
-UBA.
+Bachelor degree. Colegio Nacional de Buenos Aires (university high school), UBA.
 ```
 ```
 2007 • 2008
@@ -183,7 +182,7 @@ Through TGV S.R.L.
 ```
 ---
 ### **🌎 LANGUAGES**
-- ***SPANISH***: Native
-- ***ENGLISH***: C2 Proficient ([EF SET certificate](https://www.efset.org/cert/d9dmMU))
-- ***ITALIAN***: Basic
-- ***FENCH***: Basic
+- ***SPANISH*** : Native
+- ***ENGLISH*** : C2 Proficient ([EF SET certificate](https://www.efset.org/cert/d9dmMU))
+- ***ITALIAN*** : Basic
+- ***FRENCH*** : Basic
